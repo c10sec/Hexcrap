@@ -10,3 +10,4 @@ Compilación:<br>
 ```g++ .main.cpp -o hexcrap```<br>
 
 
+![hexcrap](https://raw.githubusercontent.com/c10sec/hexcrap/main/hexcrap.PNG)
